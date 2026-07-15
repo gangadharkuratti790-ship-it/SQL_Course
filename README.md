@@ -6,5 +6,11 @@ This repository contains My SQL learning journey 🚀
 - Practice set 1 ✅
 
 ## Program
-- snippet to create database
-- snippet to create table
+- Snippet to create database
+- Snippet to create table
+
+## Completed (Day_02)
+- Practice set 2 ✅
+
+## Program
+- Snippet to understand Sql Datatypes (Signed and Unsigned)
