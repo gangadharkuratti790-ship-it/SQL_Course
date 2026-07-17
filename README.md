@@ -45,5 +45,5 @@ All SQL queries in this repository are written and tested using **MySQL**. Some 
 
 ---
 
-Thank you for visiting this repository. Feel free to explore the SQL examples and practice files. Happy Coding! 🚀
+
 
