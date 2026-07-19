@@ -35,6 +35,12 @@ This repository contains My SQL learning journey 🚀
 ## Program
 - Snippet to understand the consraints
 
+## Completed (Day_06)
+- Practice set 6 ✅
+
+## Program
+- Select Command in Detail
+
 
 # How to Run
 
