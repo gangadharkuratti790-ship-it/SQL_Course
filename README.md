@@ -47,6 +47,12 @@ This repository contains My SQL learning journey 🚀
 ## Program
 - Definition and Snippet to understand the where clause
 
+## Completed (Day_08)
+- Practice set 8 ✅
+
+## Program
+- Snippets to understand operators in sql
+
 
 # How to Run
 
