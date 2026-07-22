@@ -53,6 +53,13 @@ This repository contains My SQL learning journey 🚀
 ## Program
 - Snippets to understand operators in sql
 
+## Completed (Day_09)
+- Practice set 9  ✅
+
+## program
+- Snippet for limit clause
+- Snippet for Orderby clause
+
 
 # How to Run
 
